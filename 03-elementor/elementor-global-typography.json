@@ -1,0 +1,53 @@
+{
+  "schema_note": "Documentazione MDAC, NON JSON importabile in Elementor; applicare in Site Settings > Global Fonts dopo verifica versione.",
+  "source": "HTML Master V1.1 and styles/*.css",
+  "google_fonts_only": true,
+  "delivery": "Self-hosted files obtained from Google Fonts; configure exact Google Fonts families in Elementor UI; avoid activating a second parallel loader.",
+  "global_fonts": {
+    "primary": {
+      "family": "Playfair Display",
+      "weight": 400,
+      "style": "normal",
+      "fallback": "Georgia, serif",
+      "usage": "h1, h2, h3, editorial/display"
+    },
+    "secondary": {
+      "family": "DM Sans",
+      "weight": 400,
+      "style": "normal",
+      "fallback": "Arial, sans-serif",
+      "usage": "body and paragraphs"
+    },
+    "text": {
+      "family": "DM Sans",
+      "weight": 400,
+      "style": "normal",
+      "fallback": "Arial, sans-serif",
+      "usage": "paragraph and form"
+    },
+    "accent": {
+      "family": "DM Sans",
+      "weight": 700,
+      "style": "normal",
+      "fallback": "Arial, sans-serif",
+      "usage": "navigation, buttons, eyebrow"
+    }
+  },
+  "weights_available": {
+    "Playfair Display": [
+      400,
+      500,
+      600
+    ],
+    "DM Sans": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "responsive_typography": "Refer to elementor-design-system.json and page CSS; values vary by component; do not replace all headings with a single global clamp.",
+  "font_display": "swap",
+  "fonts_api_css2_reference": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&display=swap",
+  "warning": "Do not load API CSS and self-hosted CSS simultaneously; decide loading strategy per WP environment."
+}

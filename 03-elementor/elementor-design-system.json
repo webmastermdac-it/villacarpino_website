@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "schema_note": "Specifiche interne MDAC: questo file NON è un template Elementor importabile e non usa uno schema Elementor verificato.",
+  "project": "Villa Carpino",
+  "version": "implementation-spec-1.0",
+  "source": "villa_carpino_final HTML snapshot",
+  "units": "px",
+  "colors": {
+    "forest": "#303D33",
+    "header": "#2D3B30",
+    "olive": "#59644A",
+    "olive_dark": "#394333",
+    "champagne": "#B18D5D",
+    "champagne_light": "#E3C89F",
+    "ivory": "#FBFAF7",
+    "cream": "#F5F2EB",
+    "sand": "#F0ECE3",
+    "ink": "#273027",
+    "muted": "#666F66",
+    "line": "#DCD9CE",
+    "white": "#FFFFFF"
+  },
+  "fonts": {
+    "heading": {
+      "family": "Playfair Display",
+      "fallback": "Georgia, serif",
+      "weights": [400, 500, 600]
+    },
+    "body": {
+      "family": "DM Sans",
+      "fallback": "Arial, sans-serif",
+      "weights": [400, 500, 600, 700]
+    },
+    "note": "Entrambe le famiglie appartengono a Google Fonts. L'HTML Master usa file TTF locali con font-display: swap; in Elementor configurare Google Fonts globali senza duplicare i loader."
+  },
+  "typography": {
+    "h1_hero": {"desktop": 86, "tablet": 62, "mobile": 41, "weight": 400, "line_height": 1.08, "letter_spacing_em": -0.04},
+    "h2_section": {"desktop": 66, "tablet": 50, "mobile": 39, "weight": 400, "line_height": 1.12, "letter_spacing_em": -0.035},
+    "h3_card": {"desktop": 29, "tablet": 27, "mobile": 27, "weight": 400, "line_height": 1.2},
+    "body": {"desktop": 16, "tablet": 16, "mobile": 16, "line_height": 1.88, "weight": 400},
+    "eyebrow": {"desktop": 11, "tablet": 11, "mobile": 10, "weight": 700, "letter_spacing_em": 0.24, "text_transform": "uppercase"},
+    "navigation": {"desktop": 10, "tablet": 10, "mobile": 11, "weight": 700, "letter_spacing_em": 0.105, "text_transform": "uppercase"},
+    "button": {"desktop": 11, "tablet": 11, "mobile": 11, "weight": 700, "letter_spacing_em": 0.16, "text_transform": "uppercase"},
+    "caption": {"desktop": 12, "tablet": 12, "mobile": 12, "line_height": 1.6}
+  },
+  "layout": {
+    "container_max_width": 1200,
+    "header_container_max_width": 1390,
+    "desktop_horizontal_gutter": 40,
+    "mobile_horizontal_gutter": 21,
+    "section_vertical_padding": {"desktop": 105, "tablet": 80, "mobile": 70},
+    "two_column_gap": {"desktop": 95, "tablet": 44, "mobile": 32},
+    "card_gap": {"desktop": 23, "tablet": 20, "mobile": 20},
+    "content_alignment": "center",
+    "border_radius": {"default": 0, "small": 1},
+    "button": {"padding_vertical": 16, "padding_horizontal": 27, "min_target_height": 44}
+  },
+  "breakpoints": {
+    "desktop_min": 1201,
+    "laptop_max": 1200,
+    "tablet_max": 1024,
+    "mobile_max": 800,
+    "small_mobile_max": 480,
+    "note": "Target Elementor: verificare i breakpoint personalizzati dell'installazione. Il prototipo include regole aggiuntive a 1000, 850, 760 e 510px."
+  },
+  "component_classes": [
+    "vc-section",
+    "vc-container",
+    "vc-hero",
+    "vc-section-heading",
+    "vc-split",
+    "vc-card-grid",
+    "vc-image-card",
+    "vc-gallery",
+    "vc-cta",
+    "vc-button-primary",
+    "vc-button-outline",
+    "vc-eyebrow",
+    "vc-footer"
+  ],
+  "state": {
+    "status": "proposed Elementor design variables",
+    "importable_elementor_template": false,
+    "requires_editor_version_verification": true
+  }
+}

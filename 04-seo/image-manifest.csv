@@ -1,0 +1,59 @@
+﻿page,url,html,photo_id,jpeg_fallback,webp_srcset,sizes,alt,width,height,loading,enhanced_used,asset_exists
+Home,/,villa_carpino_home.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Home,/,villa_carpino_home.html,VC-04,assets/originals/VC-04.jpg,,,,1472,491,eager,false,true
+Home,/,villa_carpino_home.html,VC-02,assets/originals/VC-02.jpg,,,Sala allestita di Villa Carpino a Ome,800,500,lazy,false,true
+Home,/,villa_carpino_home.html,VC-12,assets/originals/VC-12.jpg,,,Sala interna elegante di Villa Carpino,600,600,lazy,false,true
+Home,/,villa_carpino_home.html,VC-27,assets/originals/VC-27.jpg,,,Giardino e parco di Villa Carpino,600,600,lazy,false,true
+Home,/,villa_carpino_home.html,VC-33,assets/originals/VC-33.jpg,,,Piatto della cucina di Villa Carpino,600,600,lazy,false,true
+Home,/,villa_carpino_home.html,VC-16,assets/originals/VC-16.jpg,,,Allestimento di sala per cerimonia a Villa Carpino,600,600,lazy,false,true
+Home,/,villa_carpino_home.html,VC-29,assets/originals/VC-29.jpg,,,Allestimento per un ricevimento a Villa Carpino,600,600,lazy,false,true
+Home,/,villa_carpino_home.html,VC-14,assets/originals/VC-14.jpg,,,Ampia sala di Villa Carpino per eventi,600,600,lazy,false,true
+Home,/,villa_carpino_home.html,VC-26,assets/originals/VC-26.jpg,,,Facciata di Villa Carpino e giardino a Ome,600,600,lazy,false,true
+Home,/,villa_carpino_home.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+La Villa,/la-villa/,la-villa.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+La Villa,/la-villa/,la-villa.html,VC-25,assets/originals/VC-25.jpg,,,,600,600,eager,false,true
+La Villa,/la-villa/,la-villa.html,VC-18,assets/originals/VC-18.jpg,,,Ingresso della villa tra alberi e fiori,600,600,lazy,false,true
+La Villa,/la-villa/,la-villa.html,VC-11,assets/originals/VC-11.jpg,,,Scala interna e ingresso di Villa Carpino,600,600,lazy,false,true
+La Villa,/la-villa/,la-villa.html,VC-12,assets/originals/VC-12.jpg,,,Una delle sale interne di Villa Carpino,600,600,lazy,false,true
+La Villa,/la-villa/,la-villa.html,VC-16,assets/originals/VC-16.jpg,,,Sala di Villa Carpino allestita per un ricevimento,600,600,lazy,false,true
+La Villa,/la-villa/,la-villa.html,VC-14,assets/originals/VC-14.jpg,,,Ampia sala interna con tavoli apparecchiati a Villa Carpino,600,600,lazy,false,true
+La Villa,/la-villa/,la-villa.html,VC-27,assets/originals/VC-27.jpg,,,Parco verde e giardino di Villa Carpino,600,600,lazy,false,true
+La Villa,/la-villa/,la-villa.html,VC-21,assets/originals/VC-21.jpg,,,Angolo ombreggiato del parco con tavolo in pietra,600,600,lazy,false,true
+La Villa,/la-villa/,la-villa.html,VC-24,assets/originals/VC-24.jpg,,,Prato e alberi del parco di Villa Carpino,600,600,lazy,false,true
+La Villa,/la-villa/,la-villa.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-32,assets/originals/VC-32.jpg,,,Piatto della cucina di Villa Carpino,600,600,eager,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-02,assets/originals/VC-02.jpg,,,Tavoli allestiti nel ristorante Villa Carpino,800,500,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-31,assets/originals/VC-31.jpg,,,Preparazione della cucina del ristorante Villa Carpino,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-30,assets/originals/VC-30.jpg,,,Piatto storico del ristorante Villa Carpino,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-33,assets/originals/VC-33.jpg,,,Seconda preparazione fotografata del ristorante,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-35,assets/originals/VC-35.jpg,,,Piatto di carne e contorno,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-36,assets/originals/VC-36.jpg,,,Preparazione gastronomica del ristorante,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-37,assets/originals/VC-37.jpg,,,Piatto della tradizione fotografato nel vecchio sito,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-38,assets/originals/VC-38.jpg,,,Presentazione di un piatto sul servizio Villa Carpino,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-40,assets/originals/VC-40.jpg,,,Dolci al cucchiaio,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,VC-41,assets/originals/VC-41.jpg,,,Dessert del ristorante Villa Carpino,600,600,lazy,false,true
+Ristorante,/ristorante-franciacorta/,ristorante-franciacorta.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,VC-14,assets/originals/VC-14.jpg,,,Sala allestita per eventi a Villa Carpino,600,600,eager,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,VC-29,assets/originals/VC-29.jpg,,,Tavolo preparato per una ricorrenza a Villa Carpino,600,600,lazy,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,VC-16,assets/originals/VC-16.jpg,,,Sala apparecchiata per una cerimonia,600,600,lazy,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,VC-17,assets/originals/VC-17.jpg,,,Tavolata allestita per ricorrenza,600,600,lazy,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,VC-28,assets/originals/VC-28.jpg,,,Allestimento per un evento in villa,600,600,lazy,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,VC-13,assets/originals/VC-13.jpg,,,Sala interna di Villa Carpino con tavoli,600,600,lazy,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,VC-33,assets/originals/VC-33.jpg,,,Piatto della cucina di Villa Carpino,600,600,lazy,false,true
+Cerimonie ed eventi,/cerimonie-eventi-franciacorta/,cerimonie-eventi-franciacorta.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Matrimoni,/matrimoni-franciacorta/,matrimoni-franciacorta.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Matrimoni,/matrimoni-franciacorta/,matrimoni-franciacorta.html,VC-26,assets/originals/VC-26.jpg,,,Villa Carpino con facciata e giardino,600,600,eager,false,true
+Matrimoni,/matrimoni-franciacorta/,matrimoni-franciacorta.html,VC-16,assets/originals/VC-16.jpg,,,Sala elegante allestita per una cerimonia,600,600,lazy,false,true
+Matrimoni,/matrimoni-franciacorta/,matrimoni-franciacorta.html,VC-12,assets/originals/VC-12.jpg,,,Sala interna di Villa Carpino,600,600,lazy,false,true
+Matrimoni,/matrimoni-franciacorta/,matrimoni-franciacorta.html,VC-22,assets/originals/VC-22.jpg,,,Angolo del parco di Villa Carpino,600,600,lazy,false,true
+Matrimoni,/matrimoni-franciacorta/,matrimoni-franciacorta.html,VC-29,assets/originals/VC-29.jpg,,,Dettaglio dell'allestimento di un ricevimento,600,600,lazy,false,true
+Matrimoni,/matrimoni-franciacorta/,matrimoni-franciacorta.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Franciacorta,/franciacorta/,franciacorta.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Franciacorta,/franciacorta/,franciacorta.html,VC-04,assets/originals/VC-04.jpg,,,Villa Carpino e il paesaggio verde a Ome,1472,491,eager,false,true
+Franciacorta,/franciacorta/,franciacorta.html,VC-27,assets/originals/VC-27.jpg,,,Il verde del parco di Villa Carpino a Ome,600,600,lazy,false,true
+Franciacorta,/franciacorta/,franciacorta.html,VC-02,assets/originals/VC-02.jpg,,,Sala del ristorante Villa Carpino,800,500,lazy,false,true
+Franciacorta,/franciacorta/,franciacorta.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Contatti,/contatti/,contatti.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
+Contatti,/contatti/,contatti.html,logo/other,assets/originals/villacarpino-logo.png,,,Villa Carpino,223,40,,false,true
