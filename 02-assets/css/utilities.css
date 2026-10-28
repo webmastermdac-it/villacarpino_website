@@ -1,0 +1,23 @@
+/* Final non-invasive performance/accessibility corrections. */
+:root{--cream:#f5f2eb;--paper:#fbfaf7;--ink:#273027;--forest:#303d33;--gold:#b18d5d;--muted:#666f66;--max:1200px}
+html{scroll-behavior:smooth}
+body{overflow-x:hidden}
+picture{display:block;width:100%;height:100%}
+picture img{display:block;width:100%;height:100%;object-fit:cover}
+img{max-width:100%}
+.page-hero>picture{position:absolute;inset:0;width:100%;height:100%;display:block}
+.page-hero>picture>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hero>.vc-hero-photo,.page-hero>.vc-hero-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
+.hero>.vc-hero-picture,.page-hero>.vc-hero-picture{position:absolute;inset:0;width:100%;height:100%;display:block;z-index:0}
+.vc-hero-picture>.vc-hero-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hero:before,.page-hero:before{content:none!important;background:none!important}
+.hero>.vc-hero-photo{object-position:center 52%}
+.page-hero>.vc-hero-photo{object-position:center 42%}
+.gallery picture{height:255px}
+.gallery picture img{height:100%;width:100%}
+.wedding-grid picture{height:470px}
+.wedding-grid picture:last-child{height:340px;margin-top:130px}
+.photo-grid picture,.room-photo picture,.cuisine-image picture,.visit-image picture,.image-card picture,.event-card .photo picture{height:100%}
+*:focus-visible{outline:2px solid #b18d5d;outline-offset:3px}
+@media(max-width:800px){.gallery picture{height:205px}.wedding-grid picture,.wedding-grid picture:last-child{height:340px;margin-top:0}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
